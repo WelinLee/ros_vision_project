@@ -9,7 +9,7 @@ In the *script* folder, MATLAB file is also provided to show how it works.
 
 ## TODO
 ```sh
-    $ $ mkdir -p catkin_ws/src
+    $ mkdir -p catkin_ws/src
     $ cd catkin_ws/src
 ```
 git clone the project from the corrent URL

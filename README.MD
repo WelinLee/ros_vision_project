@@ -33,4 +33,4 @@ The effect is shown below:
 
 If running in the matlab environment, it will work like below:
 
-![ROS_OPENCV_PRO](docs/images/in_matlab_env.png)
+![ROS_OPENCV_PRO](docs/images/in_matlab_env.PNG)

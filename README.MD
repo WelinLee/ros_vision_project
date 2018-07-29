@@ -27,3 +27,10 @@ i.e. $ rosrun img_process read_img_node src/img_process/data/test.png
 ```
 
 rosrun img_process show_img_node is to show the processing above
+The effect is shown below:
+
+![ROS_OPENCV_PRO](docs/images/in_ros_env.png)
+
+If running in the matlab environment, it will work like below:
+
+![ROS_OPENCV_PRO](docs/images/in_matlab_env.png)

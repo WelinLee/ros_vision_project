@@ -1,0 +1,12 @@
+<launch>
+  <node pkg="rgbd_calibration"
+        type="rgbd_calibration_node"
+        name="rgbd_calibration_node"
+        output="screen"
+        respawn="false"
+        >
+  <remap from="/rgbd_calibration_node/filters_points" to="/camera/depth/points/voxelgrid_filtered"/>
+  </node>
+  <rosparam file="$(find rgbd_calibration)/param/calib_param.yaml" command="load"/>
+</launch>
+

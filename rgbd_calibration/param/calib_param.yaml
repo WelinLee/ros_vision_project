@@ -1,0 +1,12 @@
+origin_x: 0.26       # distance to base_footprint
+camera_z: 0          # initial value 0
+camera_roll: 0.02
+camera_pitch: 0.44
+roi_w_rate: 20       #  max 50%
+roi_h_rate: 10       #  max 50%
+z_diff: 0.02         #  unit m
+angle_diff: 0.02     #  unit rad
+ransac_threshold: 0.02   # RANSAC distance threshold
+ransac_iteration: 10000  # RANSAC iterations
+method: 2            # 0 only filters 1 LMS 2 ransac
+

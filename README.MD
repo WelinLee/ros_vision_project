@@ -1,5 +1,7 @@
 ## Author
-- **Welin**  2018.02.23
+- **Welin**  2019.05.07
+
+# img_process package
 
 ## Description
 In this project, the image processing is implemented under ROS architecture and OpenCV library.
@@ -34,3 +36,12 @@ The effect is shown below:
 If running in the matlab environment, it will work like below:
 
 ![ROS_OPENCV_PRO](docs/images/in_matlab_env.PNG)
+
+
+
+
+# rgbd_calibration package description
+
+In this project, the kinect-one (RGB-D camera) extern calibration is implemented under ROS architecture and PCL library. Sometimes the kinect is put on the mobile robot. After running the program, we could get the posture of kinect, which could use RVIZ to look up the effect. See detail in the package.
+
+![ROS_OPENCV_PRO](docs/images/calibration_result.PNG)

@@ -35,7 +35,7 @@ The effect is shown below:
 
 If running in the matlab environment, it will work like below:
 
-![ros_vision_project](docs/images/in_matlab_env.png)
+![ros_vision_project](docs/images/in_matlab_env.PNG)
 
 
 

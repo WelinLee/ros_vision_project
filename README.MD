@@ -35,7 +35,7 @@ The effect is shown below:
 
 If running in the matlab environment, it will work like below:
 
-![ros_vision_project](docs/images/in_matlab_env.PNG)
+![ros_vision_project](docs/images/in_matlab_env.png)
 
 
 
@@ -44,4 +44,4 @@ If running in the matlab environment, it will work like below:
 
 In this project, the kinect-one (RGB-D camera) extern calibration is implemented under ROS architecture and PCL library. Sometimes the kinect is put on the mobile robot. After running the program, we could get the posture of kinect, which could use RVIZ to look up the effect. See detail in the package.
 
-![ros_vision_project](docs/images/calibration.PNG)
+![ros_vision_project](docs/images/calibration.png)

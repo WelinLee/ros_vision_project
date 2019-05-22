@@ -44,4 +44,4 @@ If running in the matlab environment, it will work like below:
 
 In this project, the kinect-one (RGB-D camera) extern calibration is implemented under ROS architecture and PCL library. Sometimes the kinect is put on the mobile robot. After running the program, we could get the posture of kinect, which could use RVIZ to look up the effect. See detail in the package.
 
-![ROS_OPENCV_PRO](docs/images/calibration_result.PNG)
+![ROS_OPENCV_PRO](docs/images/calibration.PNG)
